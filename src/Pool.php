@@ -121,3 +121,4 @@ class Pool implements PromisorInterface
         }
     }
 }
+
